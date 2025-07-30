@@ -1,4 +1,4 @@
-# QR Code Telegram Bot
+# QR Bot Jade
 
 #### Video Demo: https://youtu.be/JKlTCOoEadA?si=veHovSA6skGKUJTX
 #### Description:
