@@ -1,6 +1,6 @@
 # QR Code Telegram Bot
 
-#### Video Demo: https://youtu.be/JKlTCOoEadA?si=XEHdIxRzfcp1Zyy5
+#### Video Demo:  <URL HERE>
 #### Description:
 
 This project is a simple Telegram bot created for the CS50x final project. The bot, named 'QR Bot Jade', generates QR codes from any text message/ link a user sends to it. It's built using Python and the `python-telegram-bot` library. The primary goal of this project was to explore the development of Telegram bots, handle asynchronous operations, and work with external APIs and libraries to create a practical and interactive application.
@@ -34,13 +34,7 @@ To get this project running on your local machine, follow these steps:
 First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/nyanmin23/QR-Bot-Jade.git
-cd  cd QR-Bot-Jade/
-
-
-### 3. Commands
-
-Run these commands in the VS Code Terminal
-```terminal
+cd QR-Bot-Jade
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirments.txt
