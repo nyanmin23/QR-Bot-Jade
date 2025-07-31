@@ -47,7 +47,7 @@ cd QR-Bot-Jade
 python -m venv .venv
 source .venv/bin/activate
 ```
-***On Windows:**
+**On Windows:**
 ```bash
 .venv\Scripts\activate
 ```
