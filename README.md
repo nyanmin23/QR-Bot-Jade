@@ -42,10 +42,14 @@ git clone https://github.com/nyanmin23/QR-Bot-Jade.git
 cd QR-Bot-Jade
 ```
 
-2.  **Set up a virtual environment (On Windows: .venv\Scripts\activate):**
+2.  **Set up a virtual environment:**
 ```bash
 python -m venv .venv
 source .venv/bin/activate
+```
+***On Windows:**
+```bash
+.venv\Scripts\activate
 ```
 
 3.  **Install dependencies:**
